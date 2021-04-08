@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="http://michaelshillingburg.tumblr.com/">
+<img align="right" width="400" height="400" src="https://media0.giphy.com/media/xUA7aXVM5862E2XRXq/giphy.gif">
  
 # Welcome!
  
