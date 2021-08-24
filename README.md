@@ -4,7 +4,7 @@
  
 ## I'm Nathan Osti Miguel!
  
-I am 19 years old currently studying Analysis and systems development by UNICSUL. I've been a web developer for 1 year!!
+I am 19 years old currently studying Analysis and systems development by UNICSUL. I've been a web developer for a year!!
  
  
 ## About me 
