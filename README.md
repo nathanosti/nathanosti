@@ -1,4 +1,4 @@
-# Olá! Eu sou [Nathan] 👋
+# Olá! Eu sou Nathan 👋
 
 ## Estatísticas do GitHub
 
@@ -6,11 +6,11 @@
 
 ## Tecnologias e Ferramentas
 
-![Linguagens e ferramentas](https://skillicons.dev/icons?i=git,github,python,java,javascript,html,css)
+![Linguagens e ferramentas](https://skillicons.dev/icons?i=git,github,python,java,javascript,html,css,go,spring,dotnet)
 
 ## Projetos em destaque
 
-- [Projeto 1]([link para o repositório](https://github.com/nathanosti/my-personal-neovim-configuration)): Personal NeoVim Config Repo: Store, manage, and share your customized NeoVim setup. Includes plugins, themes, key mappings, and documentation. Collaborate with the community. Keep your workflow optimized!
+- [Neo-Vim-Config](https://github.com/nathanosti/my-personal-neovim-configuration)
 
 ## Conecte-se comigo
 
