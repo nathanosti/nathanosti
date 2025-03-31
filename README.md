@@ -2,7 +2,7 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de [Seu Nome]](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub de [Nathan]](https://github-readme-stats.vercel.app/api?username=nathanosti&show_icons=true&theme=radical)
 
 ## Tecnologias e Ferramentas
 
