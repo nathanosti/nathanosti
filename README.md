@@ -76,5 +76,4 @@ Estou criando a **EchoLead** — uma plataforma que conecta **campanhas, landing
 → https://github.com/EchoLead
 
 ### Projetos em destaque
-- NeoVim Config: https://github.com/nathanosti/my-personal-neovim-configuration
 - EchoLead Org: https://github.com/EchoLead
