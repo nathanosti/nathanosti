@@ -1,7 +1,3 @@
-<!--
-Dica: crie um repo chamado exatamente "nathanosti" e coloque este README.md na raiz.
--->
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,spring,react,nextjs,python,go,docker,kubernetes,postgres,rabbitmq,aws,azure" />
 </p>
