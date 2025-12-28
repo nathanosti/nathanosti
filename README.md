@@ -46,12 +46,6 @@ Senior Full Stack Developer based in São Paulo, Brazil — I like building soft
 I’m building **EchoLead** — a platform that connects **marketing campaigns, landing pages, chat, and CRM** into a single traceable flow (event-driven & multi-tenant).  
 → https://github.com/EchoLead
 
-### GitHub Stats
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathanosti&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanosti&layout=compact&theme=radical" />
-</p>
-
 ---
 
 # 🇧🇷 Português
