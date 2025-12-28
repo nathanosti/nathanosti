@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/nathan-osti-banner.png" alt="Nathan Osti banner" width="900" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,spring,react,nextjs,python,go,docker,kubernetes,postgres,rabbitmq,aws,azure" />
 </p>
 
